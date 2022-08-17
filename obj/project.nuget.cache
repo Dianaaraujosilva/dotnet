@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pajLojkV3Iql8KUoIsV2TjSL5uJtL+drxW9Kz8KErO+PtMoB7jD34HaCPF9tZjSPfr6nhD+ylDqPQ9bQDfgupw==",
+  "dgSpecHash": "evgpx2yDSnsRdMG1/MU7rJJNcWIoyl8HJVScqfIL86GUSee7r5Y/f37FMb82gHh1GsgPLfh7Cjnmoinv13FyfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IFSP\\desktop\\SP304422X\\ExemploAsNetMvc\\ExemploAsNetMvc.csproj",
+  "projectFilePath": "C:\\Users\\IFSP\\desktop\\SP304422X\\dotnet\\ExemploAsNetMvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

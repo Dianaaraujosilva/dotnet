@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IFSP\\desktop\\SP304422X\\ExemploAsNetMvc\\ExemploAsNetMvc.csproj",
+      "projectUniqueName": "C:\\Users\\IFSP\\desktop\\SP304422X\\dotnet\\ExemploAsNetMvc.csproj",
       "projectName": "ExemploAsNetMvc",
-      "projectPath": "C:\\Users\\IFSP\\desktop\\SP304422X\\ExemploAsNetMvc\\ExemploAsNetMvc.csproj",
+      "projectPath": "C:\\Users\\IFSP\\desktop\\SP304422X\\dotnet\\ExemploAsNetMvc.csproj",
       "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IFSP\\desktop\\SP304422X\\ExemploAsNetMvc\\obj\\",
+      "outputPath": "C:\\Users\\IFSP\\desktop\\SP304422X\\dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
